@@ -1,0 +1,1 @@
+import{M as e}from"./index-DE4h72_2.js";var t=e;export{t as component};
