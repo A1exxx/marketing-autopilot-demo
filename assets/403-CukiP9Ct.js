@@ -1,1 +1,0 @@
-import{t as e}from"./forbidden-CZ48AfIT.js";var t=e;export{t as component};
