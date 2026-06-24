@@ -1,0 +1,1 @@
+import{t as e}from"./offer-BMvq_y61.js";var t=e;export{t as component};

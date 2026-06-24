@@ -1,1 +1,0 @@
-import{t as e}from"./intel-C1ztprTP.js";var t=e;export{t as component};

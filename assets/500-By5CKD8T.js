@@ -1,0 +1,1 @@
+import{N as e}from"./index-OAlf-M8q.js";var t=e;export{t as component};
