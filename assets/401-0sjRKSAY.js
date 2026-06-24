@@ -1,0 +1,1 @@
+import{t as e}from"./unauthorized-error-Bo8Y88bi.js";var t=e;export{t as component};
