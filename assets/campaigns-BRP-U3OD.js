@@ -1,0 +1,1 @@
+import{t as e}from"./campaigns-CbdsekyF.js";var t=e;export{t as component};
