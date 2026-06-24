@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-DKK21nsf.js";var t=e;export{t as component};
