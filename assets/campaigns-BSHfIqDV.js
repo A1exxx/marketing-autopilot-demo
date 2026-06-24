@@ -1,0 +1,1 @@
+import{t as e}from"./campaigns-CRqewqfw.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./intel-qeprbMTy.js";var t=e;export{t as component};

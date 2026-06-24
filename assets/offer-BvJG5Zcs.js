@@ -1,0 +1,1 @@
+import{t as e}from"./offer-sYUJ-BCp.js";var t=e;export{t as component};
